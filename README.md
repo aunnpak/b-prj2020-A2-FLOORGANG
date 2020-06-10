@@ -8,7 +8,7 @@ Chavit  Toranathumkul 6088167 Sec.2
 
 Moving and avoiding the obstacle that kill the player, then moving to reach the goal
 
-Control
+# How to Control
 
 W = Move Up
 
